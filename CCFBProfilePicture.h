@@ -27,6 +27,9 @@
  THE SOFTWARE.
  */
 
+#import <Foundation/Foundation.h>
+#import "cocos2d.h"
+
 /**
  * A simple class to handle Facebook profile pictures in cocos2d.
  * Works like any other CCSprite.
